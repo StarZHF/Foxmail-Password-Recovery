@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "foxDecode", "foxDecode\foxDecode.csproj", "{AC9F6CCA-75A8-4661-9817-F53DB2C8A8C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC9F6CCA-75A8-4661-9817-F53DB2C8A8C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC9F6CCA-75A8-4661-9817-F53DB2C8A8C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC9F6CCA-75A8-4661-9817-F53DB2C8A8C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC9F6CCA-75A8-4661-9817-F53DB2C8A8C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90400B02-66D3-41A8-AF98-32CB9996113E}
+	EndGlobalSection
+EndGlobal
